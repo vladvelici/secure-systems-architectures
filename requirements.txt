@@ -9,5 +9,5 @@ MarkupSafe==1.1.1
 Pyro4==4.77
 requests==2.22.0
 serpent==1.28
-urllib3==1.25.6
+urllib3==1.26.5
 Werkzeug==0.16.0
